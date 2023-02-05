@@ -38,4 +38,4 @@ the variable will be there but is going to produce a ReferenceError (let) or a S
     2.3 - Local variables are created when a function starts and deleted when the function is completed
 3 - Global
     3.1 - Variables declared outside of a function becomes global and can be accessed anywhere
-    3.2 - If you give a value to a variable that hasn't been declared, it will automatically become global
+    3.2 - If you give a value to a variable that hasn't been declared, it will automatically become global*/
